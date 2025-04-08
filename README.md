@@ -48,6 +48,7 @@
 
 ## Отдельно
 <ul>
+    <li>Tauri</li>
   <li>Интеграция любых API</li>
   <li>Создание макетов в Figma <img height="20px" src="https://pics.freeicons.io/uploads/icons/png/9655574981556105319-512.png"></li>
   <li>Писал виджеты для AmoCRM</li>
