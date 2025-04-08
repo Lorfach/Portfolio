@@ -81,10 +81,10 @@
 
 Стэк:
 *    Frontend:
-    -    React
-    -    Tailwind
-    -     Typescript
-    - Tauri
+        -    React
+        -    Tailwind
+        - Typescript
+        - Tauri
 
 ## ИИ Чатбот
 Выполнил тестовое задание по верстке и связыванию чатбота с внешним Api:
@@ -112,10 +112,10 @@
     
 Стэк:
 *    Frontend:
-    -    React
-    -    Tailwind
-    -    React Router
-    -    Canvas
+        -    React
+        -    Tailwind
+        -    React Router
+        -    Canvas
       
 *    Backend
     -    Node.js
