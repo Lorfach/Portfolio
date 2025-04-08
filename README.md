@@ -81,6 +81,7 @@
     -    Tailwind
     -    React Router
     -    Canvas
+      
   *    Backend
     -    Node.js
     -    Express.js
