@@ -71,6 +71,18 @@
 
 # Другие проекты
 
+## Секундомер
+И его .exe версия, собранная через Tauri.
+
+[Скачать .exe](https://github.com/Lorfach/Timer-app/releases/tag/exe)
+[Репозиторий с кодом](https://github.com/Lorfach/Timer-app)
+Стэк:
+*    Frontend:
+    -    React
+    -    Tailwind
+    -     Typescript
+      - Tauri
+
 ## Сапёр онлайн
 Классический сапёр с возможностью играть в группе до 6 человек.
     - Возможность создания комнат и присоединение к ним.
