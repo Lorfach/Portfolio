@@ -3,12 +3,12 @@
 # Technical skills
 
 ## Front-end
-База - HTML5, CSS3, JS 📜
+База - HTML5, CSS3, JavaScript, TypeScript 📜
 
 *  React <img height="20px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
     -  ContextAPI
-    -  ReactQuery
-    -  ReactHookForm
+    -  Redux Toolkit
+    -  RTK Query
     -  React Router
     -  Mathjax
     -  Vite
