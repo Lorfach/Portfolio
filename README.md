@@ -95,12 +95,12 @@
 
 Стэк:
 *    Frontend:
-  - React
-  - CSS
-  - TypeScript
-  - Redux Toolkit
-  - RTK Query
-  - Restfull API
+      - React
+      - CSS
+      - TypeScript
+      - Redux Toolkit
+      - RTK Query
+      - Restfull API
 
 ## Сапёр онлайн
 Классический сапёр с возможностью играть в группе до 6 человек.
