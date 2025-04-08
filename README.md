@@ -75,14 +75,15 @@
     - Отображение комнат в главном лобби.
     - Синхронизация лобби и игрового поля между всеми игроками
     - Адаптивная верстка
-* Стэк:
-  *    Frontend:
+    
+Стэк:
+*    Frontend:
     -    React
     -    Tailwind
     -    React Router
     -    Canvas
       
-  *    Backend
+*    Backend
     -    Node.js
     -    Express.js
     -    Websocket (Socket.io)
