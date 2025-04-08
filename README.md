@@ -66,7 +66,7 @@
 *    [Посмотреть итог](https://production-0b7b0.up.railway.app/)
      -    Пароль - jjbVaASD1z
 
-[Репозиторий с кодом](https://github.com/Lorfach/main/tree/source)
+[Репозиторий с кодом и описанием](https://github.com/Lorfach/main/tree/source)
 
 
 # Другие проекты
